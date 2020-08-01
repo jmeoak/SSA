@@ -1,2 +1,2 @@
 # SSA
-Secret Santa Program 
+Secret Santa Application 
